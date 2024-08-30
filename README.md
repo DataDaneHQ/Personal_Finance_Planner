@@ -2,13 +2,13 @@
 
 <br>
 
-Welcome to my Personal Finance Dashboard project, a comprehensive Excel-based tool designed to help you take control of your finances with ease and precision. This dashboard is an evolution of the original template created by The Office Lab, which laid the groundwork for a zero-based, multi-period budget planner. My version builds upon that foundation, incorporating additional features that reflect my personal finance tracking needs while showcasing the Excel skills I've honed through practice and learning.
+Welcome to my Personal Finance Dashboard project, a comprehensive Excel-based tool designed to help you take control of your finances with ease and precision. This dashboard is an evolution of the original template by the YouTube creator *The Office Lab*, which laid the groundwork for a zero-based, multi-period budget planner. My version builds upon that foundation, incorporating additional features that reflect my personal finance tracking needs while showcasing the Excel skills I've honed through practice and learning.
 
 ## About the Dashboard
 
-The spreadsheet consists of six sheets: Settings, Budget Planning, Budget Tracking, Budget Dashboard, Calculations, and Dropdown List Data. To help you see the final dashboard result, I have populated the planning and tracking sheets with dummy data.
+The spreadsheet contains six sheets: three visible—Budget Planning, Budget Tracking, and Budget Dashboard—and three hidden—Settings, Calculations, and Dropdown List Data. To help you see the final dashboard result, I have populated the planning and tracking sheets with dummy data.
 
-This Excel Personal Finance Dashboard allows you to plan, track, and visualize your budget with minimal effort. It covers every aspect required to gain full control over your personal finances, from planning inconsistent income and expenses to managing your savings. The interactive dashboard at the heart of this tool presents both planned and tracked budget data in a smart, user-friendly way, setting new standards in data visualization within Excel.
+This Excel Personal Finance Dashboard allows you to plan, track, and visualize your budget with minimal effort. It covers every aspect required to gain full control over your personal finances, from planning inconsistent income and expenses to managing your savings. The interactive dashboard at the heart of this tool presents both planned and tracked budget data in a smart, user-friendly way.
 
 <br>
 
@@ -30,7 +30,7 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 <img src="Images/04%20-%20Bank_Balance_Integration.png" alt="Bank Balance Integration" width="500"/>
 
-***[Tracking "Needs and Wants":](Images/05%20-%20Needs_and_Wants.png)*** Understanding the difference between essential and discretionary spending is crucial for effective budgeting. I’ve incorporated a new doughnut chart that tracks expenses divided into "needs" and "wants." By setting targets—such as <45% for Needs, <35% for Wants, and >20% for Savings—you can better manage your finances. Conditional formatting highlights whether you’re meeting your targets, helping you adjust spending habits as necessary.
+***[Tracking "Needs and Wants":](Images/05%20-%20Needs_and_Wants.png)*** Understanding the difference between essential and discretionary spending is crucial for effective budgeting. I’ve incorporated a new doughnut chart on the dashboard that tracks expenses divided into "needs" and "wants." By setting targets—such as <45% for Needs, <35% for Wants, and >20% for Savings—you can better manage your finances. Conditional formatting highlights whether you’re meeting your targets, helping you adjust spending habits as necessary.
 
 <img src="Images/05%20-%20Needs_and_Wants.png" alt="Needs and Wants" width="500"/>
 
@@ -42,7 +42,7 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ## Acknowledgments
 
-I want to extend a heartfelt thanks to The Office Lab for the original tutorial that inspired this project. Their work provided an excellent foundation, and their dedication to sharing knowledge freely is deeply appreciated. If you are interested in the full functionality and want to learn how to build the orginal template, I highly recommend following The Office Lab's YouTube tutorial [here](https://www.youtube.com/watch?v=eKyAOjH3Crk). Their tutorial is an excellent resource and provided the foundation for this project.
+I want to extend a heartfelt thanks to The Office Lab for the original tutorial that inspired this project. Their work provided an excellent foundation, and their dedication to sharing knowledge freely is deeply appreciated. If you are interested in the full functionality and want to learn how to build the orginal template, I highly recommend following The Office Lab's YouTube tutorial *[here](https://www.youtube.com/watch?v=eKyAOjH3Crk)*. Their tutorial is an excellent resource and provided the foundation for this project.
 
 <br>
 
