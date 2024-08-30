@@ -46,9 +46,10 @@ I want to extend a heartfelt thanks to The Office Lab for the original tutorial 
 
 <br>
 
-## Additional Comments
+## Disclaimer
 
 This repository includes screenshots of selected sheets from the Personal Finance Dashboard, focusing on the visual aspects of the project. No calculations or formulas from the original template are shown or shared in this repository. The intent is to showcase the Excel skills I have learned and applied while respecting the intellectual property of The Office Lab. 
 
-***Disclaimer:*** I am not a financial advisor. The information in this repository does not constitute financial advice. This repository is solely about showcasing the technical skills I have learned in the creation of this personal finance tool in Excel.
+I am not a financial advisor. The information in this repository does not constitute financial advice. This repository is solely about showcasing the technical skills I have learned in the creation of this personal finance tool in Excel.
 
+***License:*** *All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.*
