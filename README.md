@@ -14,6 +14,8 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ## Key Features
 
+### Original Template Features (by The Office Lab):
+
 ***[Zero-Based Multi-Period Budget Planning](Images/01%20-%20Budget_Planning.png)*** This feature enables you to plan your months and years ahead with almost zero effort, giving you full control over your money flows. It’s designed to handle inconsistent income streams, such as yearly, quarterly, or monthly-changing categories.
 
 <img src="Images/01%20-%20Budget_Planning.png" alt="Budget Planning" width="500"/>
@@ -25,6 +27,8 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 ***[Interactive Budget Dashboard:](Images/03%20-%20Budget_Dashboard.png)*** The dashboard consolidates all budget data into one powerful, interactive visual display, allowing you to monitor and evaluate your budget performance with ease. The UX/UI design and the composition of calculations set a high standard for Excel-based tools.
 
 <img src="Images/03%20-%20Budget_Dashboard.png" alt="Budget Dashboard" width="500"/>
+
+### Personal Additions:
 
 ***[Bank Account Integration:](Images/04%20-%20Bank_Balance_Integration.png)*** To align the budget with real-life finances, I’ve added a column in the Budget Tracking sheet that includes a dropdown list of your bank accounts. The financial overview panel now features a box displaying the balance of your accounts, ensuring your budget aligns with what’s actually in your bank.
 
@@ -42,7 +46,7 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ## Acknowledgments
 
-I want to extend a heartfelt thanks to The Office Lab for the original tutorial that inspired this project. Their work provided an excellent foundation, and their dedication to sharing knowledge freely is deeply appreciated. If you are interested in the full functionality and want to learn how to build the orginal template, I highly recommend following The Office Lab's YouTube tutorial *[here](https://www.youtube.com/watch?v=eKyAOjH3Crk)*. Their tutorial is an excellent resource and provided the foundation for this project.
+I want to extend full credit and a heartfelt thanks to The Office Lab for the original tutorial that inspired this project. Their work provided an excellent foundation, and their dedication to sharing knowledge freely is deeply appreciated. If you are interested in the full functionality and want to learn how to build the original template, I highly recommend following The Office Lab's YouTube tutorial *[here](https://www.youtube.com/watch?v=eKyAOjH3Crk)*. Their tutorial is an excellent resource and provided the foundation for this project.
 
 <br>
 
