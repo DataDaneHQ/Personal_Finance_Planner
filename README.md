@@ -26,7 +26,7 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ***[Interactive Budget Dashboard:](Images/03%20-%20Budget_Dashboard.png)*** The dashboard consolidates all budget data into one powerful, interactive visual display, allowing you to monitor and evaluate your budget performance with ease. The UX/UI design and the composition of calculations set a high standard for Excel-based tools.
 
-<img src="Images/03%20-%20Budget_Dashboard.png" alt="Budget Dashboard" width="500"/>
+
 
 ### Personal Additions:
 
@@ -34,15 +34,15 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ***[Bank Account Integration:](Images/04%20-%20Bank_Balance_Integration.png)*** To align the budget with real-life finances, I’ve added a column in the Budget Tracking sheet that includes a dropdown list of your bank accounts. The financial overview panel now features a box displaying the balance of your accounts, ensuring your budget aligns with what’s actually in your bank.
 
-<img src="Images/04%20-%20Bank_Balance_Integration.png" alt="Bank Balance Integration" width="500"/>
+
 
 ***[Tracking "Needs and Wants":](Images/05%20-%20Needs_and_Wants.png)*** Understanding the difference between essential and discretionary spending is crucial for effective budgeting. I’ve incorporated a new doughnut chart on the dashboard that tracks expenses divided into "needs" and "wants." By setting targets—such as <45% for Needs, <35% for Wants, and >20% for Savings—you can better manage your finances. Conditional formatting highlights whether you’re meeting your targets, helping you adjust spending habits as necessary.
 
-<img src="Images/05%20-%20Needs_and_Wants.png" alt="Needs and Wants" width="500"/>
+
 
 ***[Savings Tracker with Stacked Bar Chart:](Images/06%20-%20Savings_Balance.png)*** Managing savings is simplified with a new stacked bar chart that tracks what’s in your bank account as savings. As you spend, the chart dynamically updates, showing the remaining balance in your savings categories. This feature helps you monitor how much of your savings is being used and ensures you’re on track with your financial goals.
 
-<img src="Images/06%20-%20Savings_Balance.png" alt="Savings Balance" width="500"/>
+
 
 <br>
 
