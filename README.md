@@ -30,6 +30,8 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 ### Personal Additions:
 
+<img src="Images/07%20-%20Additional_Features.png" alt="Additional Features" width="500"/>
+
 ***[Bank Account Integration:](Images/04%20-%20Bank_Balance_Integration.png)*** To align the budget with real-life finances, I’ve added a column in the Budget Tracking sheet that includes a dropdown list of your bank accounts. The financial overview panel now features a box displaying the balance of your accounts, ensuring your budget aligns with what’s actually in your bank.
 
 <img src="Images/04%20-%20Bank_Balance_Integration.png" alt="Bank Balance Integration" width="500"/>
