@@ -38,11 +38,11 @@ This Excel Personal Finance Dashboard allows you to plan, track, and visualize y
 
 <img src="Images/04%20-%20Bank_Balance_Integration.png" alt="Bank Balance Integration" width="500"/>
 
-***[Tracking "Needs and Wants":](Images/05%20-%20Needs_and_Wants.png)*** Understanding the difference between essential and discretionary spending is crucial for effective budgeting. I’ve incorporated a new doughnut chart on the dashboard that tracks expenses divided into "Needs", "Wants", and "Savings". By setting targets—such as <45% for Needs, <35% for Wants, and >20% for Savings—you can better manage your finances. Conditional formatting highlights whether you’re meeting your targets, helping you adjust spending habits as necessary. Like all other plots, the values and the corresponding categories are displayed in ranked order.
+***[Tracking "Needs and Wants":](Images/05%20-%20Needs_and_Wants.png)*** Understanding the difference between essential and discretionary spending is crucial for effective budgeting. I’ve incorporated a new doughnut chart on the dashboard that tracks expenses divided into "Needs", "Wants", and "Savings". By setting targets—such as <45% for Needs, <35% for Wants, and >20% for Savings—you can better manage your finances. Conditional formatting highlights whether you’re meeting your targets, helping you adjust spending habits as necessary. Like all other plots, the values and the corresponding categories are dynamically displayed in ranked order.
 
 <img src="Images/05%20-%20Needs_and_Wants.png" alt="Needs and Wants" width="500"/>
 
-***[Savings Tracker with Stacked Bar Chart:](Images/06%20-%20Savings_Balance.png)*** Managing savings is simplified with a new stacked bar chart that tracks what’s in your bank account as savings. As you spend, the chart dynamically updates, showing the remaining balance in your savings categories. This feature helps you monitor how much of your savings is being used and ensures you’re on track with your financial goals. Consistent with the other charts, the values and categories are displayed in order of ranking.
+***[Savings Tracker with Stacked Bar Chart:](Images/06%20-%20Savings_Balance.png)*** Managing savings is simplified with a new stacked bar chart that tracks what’s in your bank account as savings. As you spend, the chart dynamically updates, showing the remaining balance in your savings categories. This feature helps you monitor how much of your savings is being used and ensures you’re on track with your financial goals. Consistent with the other charts, the values and categories are dynamically displayed in order of ranking.
 
 <img src="Images/06%20-%20Savings_Balance.png" alt="Savings Balance" width="500"/>
 
